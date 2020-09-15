@@ -1,0 +1,183 @@
+body {
+    background: rgb(172, 170, 170);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .canvas {
+    width: 720px;
+    height: 320px;
+  }
+  
+  .pixel {
+    width: 40px;
+    height: 40px;
+    float: left;
+    
+  }
+  .pixel:nth-child(21),
+  .pixel:nth-child(22),
+  .pixel:nth-child(23),
+  .pixel:nth-child(24),
+  .pixel:nth-child(25),
+  .pixel:nth-child(26), 
+  .pixel:nth-child(27), 
+  .pixel:nth-child(19), 
+  .pixel:nth-child(20),
+  .pixel:nth-child(37),
+  .pixel:nth-child(38),
+  .pixel:nth-child(39),
+  .pixel:nth-child(40),
+  .pixel:nth-child(41),
+  .pixel:nth-child(42),
+  .pixel:nth-child(43),
+  .pixel:nth-child(44), 
+  .pixel:nth-child(45),
+  .pixel:nth-child(57), 
+  .pixel:nth-child(58), 
+  .pixel:nth-child(59), 
+  .pixel:nth-child(60), 
+  .pixel:nth-child(61),
+  .pixel:nth-child(62),
+  .pixel:nth-child(63), 
+
+  .pixel:nth-child(78),
+  .pixel:nth-child(76), 
+  .pixel:nth-child(77), 
+  .pixel:nth-child(79), 
+  .pixel:nth-child(80), 
+  .pixel:nth-child(81), 
+  .pixel:nth-child(91), 
+  .pixel:nth-child(92), 
+  .pixel:nth-child(93),
+  .pixel:nth-child(94), 
+  .pixel:nth-child(95), 
+  .pixel:nth-child(96), 
+  .pixel:nth-child(97), 
+  .pixel:nth-child(98),
+  .pixel:nth-child(99),
+  .pixel:nth-child(109),
+  .pixel:nth-child(110),
+  .pixel:nth-child(111),
+  .pixel:nth-child(112),
+  .pixel:nth-child(113),
+  .pixel:nth-child(114),
+  .pixel:nth-child(115),
+  .pixel:nth-child(117),
+  .pixel:nth-child(116)
+  
+   {
+    background: #fcf045;
+  }
+  .pixel:nth-child(118), 
+  .pixel:nth-child(119), 
+  .pixel:nth-child(120), 
+  .pixel:nth-child(121),
+  .pixel:nth-child(122), 
+  .pixel:nth-child(123), 
+  .pixel:nth-child(124), 
+  .pixel:nth-child(125), 
+  .pixel:nth-child(126),
+ 
+  .pixel:nth-child(100), 
+  .pixel:nth-child(101), 
+  .pixel:nth-child(102), 
+  .pixel:nth-child(103),
+  .pixel:nth-child(104), 
+  .pixel:nth-child(105), 
+  .pixel:nth-child(106), 
+  .pixel:nth-child(107), 
+  .pixel:nth-child(108),
+  .pixel:nth-child(82),
+  .pixel:nth-child(83), 
+  .pixel:nth-child(84), 
+  .pixel:nth-child(85), 
+  .pixel:nth-child(86), 
+  .pixel:nth-child(87),
+  .pixel:nth-child(64), 
+  .pixel:nth-child(65), 
+  .pixel:nth-child(67), 
+  .pixel:nth-child(68), 
+  .pixel:nth-child(69),
+  .pixel:nth-child(70),
+  .pixel:nth-child(66), 
+  .pixel:nth-child(52),
+  .pixel:nth-child(53),
+  .pixel:nth-child(54),
+  .pixel:nth-child(46),
+  .pixel:nth-child(47),
+  .pixel:nth-child(48), 
+  .pixel:nth-child(49), 
+  .pixel:nth-child(50), 
+  .pixel:nth-child(51),
+  .pixel:nth-child(28),
+  .pixel:nth-child(29),
+  .pixel:nth-child(30),
+  .pixel:nth-child(31),
+  .pixel:nth-child(32),
+  .pixel:nth-child(33), 
+  .pixel:nth-child(34), 
+  .pixel:nth-child(35), 
+  .pixel:nth-child(36)
+  {
+    background: #9eb4fb;
+  }
+  .pixel:nth-child(88),
+  .pixel:nth-child(75)
+  {
+    background: #da09b7;
+    
+  }
+  .pixel:nth-child(1),
+  .pixel:nth-child(4),
+  .pixel:nth-child(7),
+  .pixel:nth-child(10),
+  .pixel:nth-child(13),
+  .pixel:nth-child(16),
+  .pixel:nth-child(127),
+  .pixel:nth-child(130),
+  .pixel:nth-child(133),
+  .pixel:nth-child(136),
+  .pixel:nth-child(139),
+  .pixel:nth-child(142)
+  {
+    background: #09ccda;
+    
+  }
+  .pixel:nth-child(2),
+  .pixel:nth-child(5),
+  .pixel:nth-child(8),
+  .pixel:nth-child(11),
+  .pixel:nth-child(14),
+  .pixel:nth-child(17),
+  .pixel:nth-child(128),
+  .pixel:nth-child(131),
+  .pixel:nth-child(134),
+  .pixel:nth-child(137),
+  .pixel:nth-child(140),
+  .pixel:nth-child(143)
+  {
+    background: #76e410;
+    
+  }
+  .pixel:nth-child(3),
+  .pixel:nth-child(6),
+  .pixel:nth-child(9),
+  .pixel:nth-child(12),
+  .pixel:nth-child(15),
+  .pixel:nth-child(18),
+  .pixel:nth-child(129),
+  .pixel:nth-child(132),
+  .pixel:nth-child(135),
+  .pixel:nth-child(138),
+  .pixel:nth-child(141),
+  .pixel:nth-child(144)
+  {
+    background: #8510e4;
+    
+  }
+  
+
+  
